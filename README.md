@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/sFSCmf7/DNS-WATCH.png" width="250"></a>
+<p align="center"><img src="https://github.com/K3V1991/DNS.WATCH4Magisk/blob/main/DNS_WATCH.png" width="250"></a>
 <h1 align="center"><b>DNS.WATCH4Magisk</b></h1>
 <h4 align="center">This Module makes your Device to use DNS.WATCH DNS Servers</h4>
 <br />
